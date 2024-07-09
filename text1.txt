@@ -1,1 +1,7 @@
-Create text1.txt
+Hi -> everyOne 
+This my First TXT file upload in git
+
+shabeer-sgm
+
+
+Thank YoU
